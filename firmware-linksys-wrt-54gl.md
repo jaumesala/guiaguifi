@@ -4,6 +4,9 @@ title: Linksys WRT-54GL
 subtitle: Modifiar el firmware
 prev: firmware.html
 next: ap.html
+redirect_from:
+  - firmware4
+  - firmware5
 ---
 
 {: .lead }

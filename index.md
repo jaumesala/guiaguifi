@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Guia d'instal·lació de Guifi.net
+redirect_from: autors
 ---
 
 {: .lead }

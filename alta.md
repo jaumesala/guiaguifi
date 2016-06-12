@@ -3,6 +3,7 @@ layout: page
 title: Alta a Guifi.net
 prev: ap.html
 next: node.html
+redirect_from: alta2
 ---
 
 {: .lead }

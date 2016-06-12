@@ -3,6 +3,7 @@ layout: page
 title: Buscar un punt d'accés
 prev: firmware.html
 next: alta.html
+redirect_from: firmware5
 ---
 
 {: .lead }

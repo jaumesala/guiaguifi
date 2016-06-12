@@ -3,6 +3,7 @@ layout: page
 title: Configuració del proxy
 prev: router.html
 next: proxy-ie.html
+redirect_from: proxy2
 ---
 
 {: .lead }

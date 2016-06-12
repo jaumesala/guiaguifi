@@ -39,3 +39,4 @@ method: index
 #dependencies
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from

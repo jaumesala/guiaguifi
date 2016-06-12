@@ -4,6 +4,9 @@ title: Buffalo WHR-G54S
 subtitle: Modifiar el firmware
 prev: firmware.html
 next: ap.html
+redirect_from:
+  - firmware2
+  - firmware3
 ---
 
 {: .lead }
