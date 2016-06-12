@@ -17,6 +17,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://guiaguifi.jaumesala.net" # the base hostname & protocol for your site
 timezone: Europe/Madrid
 
+# social nicknames
+github_username:  jaumesala
+linkedin_username: jaumesala
+twitter_username: jaumesala84
+
 # excluded files and folders
 exclude: ['node_modules', 'vendor', 'resources', 'bower.json', 'gulpfile.js', 'package.json', 'npm-debug.log']
 include: []
