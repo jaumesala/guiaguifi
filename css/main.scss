@@ -3,8 +3,60 @@
 ---
 @charset "utf-8";
 
+body{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .container{
-    max-width: 650px; //730px;
+    max-width: 970px; //650px; //730px;
+}
+
+.page-header{
+    margin-top: 0;
+}
+
+#author{
+    img{
+        width: 140px;
+    }
+
+    .social{
+        margin-top: 20px;
+    }
+}
+
+#main-anv{
+    margin-top: 20px;
+
+    li{
+        margin-top: 2px;
+        margin-bottom: 2px;
+    }
+}
+
+#body{
+    min-height: 800px;
+}
+
+ol,
+ul{
+    padding-left: 25px;
+}
+
+body,
+html{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: 300;
+}
+
+h1 small{
+    font-weight: 300;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
