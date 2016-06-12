@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Muntatge i instal·lació física de l'antena i del router
+title: Instal·lació física dels aparells
+prev: intro.html
+next: firmware.html
 ---
 
-{% include menu.html %}
-
-## Objectius
-
 {: .lead }
-Veurem a través d'una instal·lació real com s'ha de muntar l'antena, el router, els cables de corrent i de xarxa i quin és el millor lloc per posar tots els aparells.
+A continuació, veurem a través d'una instal·lació real com s'ha de muntar l'antena, el router, els cables de corrent i de xarxa i quin és el millor lloc per posar tots els aparells.
 
 Agafam els tres elements principals de la nostre instal·lació, els quals són el router, l'antena+cable i una caixa estanca.
 
@@ -21,7 +19,7 @@ Anem cap al lloc on tenim previst fer la instal·lació, que normalment serà la
 ![busquem la ubicació del SuperNode](img/muntatge/02.jpg "busquem la ubicació del SuperNode"){: .img-responsive .img-thumbnail}
 
 {: .alert .alert-info }
-**Molt important** a l'hora d'escollir una ubicació del nostre node, es **molt important** i **imprescindible** que veiem l'antena on hem d'anar a connectar. La línia de visió entre la nostre antena i l'antena on connectarem ha de estar completament lliure d'obstacles i/o impediments, ja que en cas contrari es complicaria la connexió o inclús no podríem connectar.
+**Important** a l'hora d'escollir una ubicació del nostre node, es ***molt important*** i ***imprescindible*** que veiem l'antena on hem d'anar a connectar. La línia de visió entre la nostre antena i l'antena on connectarem ha de estar completament lliure d'obstacles i/o impediments, ja que en cas contrari es complicaria la connexió o inclús no podríem connectar.
 
 Ara que ja sabem aon col·locarem la nostre antena, la muntem utilitzant els accessoris que ja porten subministrats amb l'antena. En el nostre cas, hem aprofitat el màstil de l'antena parabòlica ja que tenia visió directe i era el punt més alt.
 
@@ -46,12 +44,9 @@ Connectem els cables (cable de xarxa, connector d'antena i cable d'alimentació)
 Ara ja només ens falta posar la tapa de la caixa estanca i ja estem.
 
 ### Què hem vist?
+
 En aquest fragment de la guia hem après a:
 
 1. Buscar una bona ubicació per a l'antena del nostre node.
 2. Fer la instal·lació física del nostre node.
-
----
-
-{% include menu.html %}
 
