@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Configuració del router
+prev: trasto.html
+next: proxy.html
 ---
 
-
-{% include menu.html %}
-
-## Objectius
-
+{: .lead }
 En aquest pas, configurarem el nostre router amb els paràmetres que hem obtingut a Guifi.net per tal de conectar-nos al punt d'accés que anteriorment hem sel·leccionat.
+
+---
 
 Per fer-ho utilitzarem l'unsolclic, que en el pas anterior hem guardat en un arxiu de text.
 Obrim l'arxiu que hem guardat anteriorment.
