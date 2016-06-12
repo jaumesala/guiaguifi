@@ -1,35 +1,31 @@
 ---
 layout: page
-title: Introducció
+title: Introducció i passos previs
+prev: index.html
+next: muntatge.html
 ---
 
-{% include menu.html %}
-
-## Objectius
-
 {: .lead}
-La finalitat d'aquesta guia és ajudar a qualsevol persona, amb coneixements
-informàtics o no, en el procés d'instal·lació i configuració d'un node per poder
-connectar-se a la xarxa Guifi.net. En aquesta guia trobaràs la informació pas a
-pas de tot el procés de muntatge, ja sigui de l'antena, el router, el cablejat,
-etc...
+La finalitat d'aquesta guia és ajudar a qualsevol persona, amb coneixements informàtics o no, en el procés d'instal·lació i configuració d'un node per poder connectar-se a la xarxa Guifi.net. En aquesta guia trobaràs la informació pas a pas de tot el procés de muntatge, ja sigui de l'antena, el router, el cablejat, etc...
 
-Tot i ser una guia per a persones amb pocs coneixements del tema, és molt
-aconsellable que tingueu un company (o més d'un) que us ajudi en tot el procés.
+---
 
-El procés en general està dividit en cinc part principals;
+{: .alert .alert-info }
+Tot i ser una guia per a persones amb pocs coneixements del tema, és molt aconsellable que tingueu un company (o més d'un) que us ajudi en tot el procés.
 
+El procés en general està dividit en sis part principals:
 
-1. Muntatge i instal·lació física de l'antena i del router
-2. Modificar el firmware del router i buscar un punt d'accés Guifi.net
-3. Alta a guifi.net
-4. Configuració del router
-5. Configuració final (proxy)
+1. Instal·lació física dels aparells
+2. Modificar el firmware del router
+3. Buscar un punt d'accés Guifi.net
+4. Donar-se d'alta a guifi.net
+5. Configuració del router
+6. Configuració final (proxy)
 
-Aquest passos estan ordenats de manera que al finalitzar-ne un, podem començar a
-fer el següent, però no es té per què seguir aquest ordre...
+Aquest passos estan ordenats de manera que al finalitzar-ne un, podem començar a fer el següent, però no es té per què seguir aquest ordre...
 
-## Què es necessita
+### Què es necessita?
+
 Per anar completant tots els passos necessitarem una sèrie de materials i eines.
 
 - Router wifi que permeti modificar el firmware (en aquest cas hem fet servir un Buffalo WHR-G54S, ja que són els més "complicats" de modificar). [Llista de routers compatibles][routers]
@@ -43,7 +39,3 @@ Per anar completant tots els passos necessitarem una sèrie de materials i eines
 
 
 [routers]: http://www.dd-wrt.com/wiki/index.php/Supported_Devices "Els més usats són el Buffalo WHR-G54S i el LINKSYS WRT-54GL"
-
----
-
-{% include menu.html %}
