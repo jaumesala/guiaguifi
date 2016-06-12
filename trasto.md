@@ -11,6 +11,8 @@ Ara que ja tenim el node, hem de crear el trasto. Un trasto no és res més que 
 
 ---
 
+### Procediments
+
 Per poder donar d'alta el trasto premem el botó d'***afegeix*** que hi ha a l'apartat de **trastos**.
 
 {: .text-center}

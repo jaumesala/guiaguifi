@@ -8,6 +8,10 @@ next: firmware.html
 {: .lead }
 A continuació, veurem a través d'una instal·lació real com s'ha de muntar l'antena, el router, els cables de corrent i de xarxa i quin és el millor lloc per posar tots els aparells.
 
+---
+
+### Procediments
+
 Agafam els tres elements principals de la nostre instal·lació, els quals són el router, l'antena+cable i una caixa estanca.
 
 {: .text-center}

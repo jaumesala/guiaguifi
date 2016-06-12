@@ -10,6 +10,8 @@ En aquest apartat es descriuem els passos per configurar el proxy en el navegado
 
 ---
 
+### Procediments
+
 Obrim l'Internet Explorer.
 
 {: .text-center}

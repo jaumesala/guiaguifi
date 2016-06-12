@@ -2,7 +2,6 @@
 layout: page
 title: Configuració del proxy
 prev: router.html
-next: proxy-ie.html
 redirect_from: proxy2
 ---
 
@@ -10,6 +9,8 @@ redirect_from: proxy2
 En aquest últim apartat t'ensenyarem a configurar el teu navegador per tal de poder accedir a internet a través dels diferents proxy's que hi ha a la xarxa Guifi.net.
 
 ---
+
+### Procediments
 
 Primer de tot hem d'anar als [fòrums de la pàgina Guifi.net][forum] i per mitjà d'un nou missatge, demanar que ens crein l'usuari per poder accedir a Internet. Les dades que hem de deixar són:
 

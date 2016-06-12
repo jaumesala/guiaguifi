@@ -11,6 +11,8 @@ Ara que ja tenim el nostre router modificat, ens cal buscar un punt d'accés per
 
 ---
 
+### Procediments
+
 Partint de la pàgina principal del nou firmware (el DD-guifi).
 
 {: .text-center}

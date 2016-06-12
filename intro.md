@@ -13,6 +13,8 @@ La finalitat d'aquesta guia és ajudar a qualsevol persona, amb coneixements inf
 {: .alert .alert-info }
 Tot i ser una guia per a persones amb pocs coneixements del tema, és molt aconsellable que tingueu un company (o més d'un) que us ajudi en tot el procés.
 
+### Procediments
+
 El procés en general està dividit en sis part principals:
 
 1. Instal·lació física dels aparells

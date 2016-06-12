@@ -11,6 +11,8 @@ Ara que ja tenim el nostre usuari, podem anar per crear el nostre node. El node 
 
 ---
 
+### Procediments
+
 Per poder crear el node anem a l'apartat de ***mapes***, que trobarem al menú superior.
 
 {: .text-center}

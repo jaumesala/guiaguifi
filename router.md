@@ -10,6 +10,8 @@ En aquest pas, configurarem el nostre router amb els paràmetres que hem obtingu
 
 ---
 
+### Procediments
+
 Per fer-ho utilitzarem l'unsolclic, que en el pas anterior hem guardat en un arxiu de text.
 Obrim l'arxiu que hem guardat anteriorment.
 

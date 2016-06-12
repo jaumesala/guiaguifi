@@ -11,6 +11,8 @@ redirect_from: alta2
 {: .lead }
 En aquest pas veurem com fer l'alta d'usuari a guifi.net, com crear el nostre node, donar d'alta el trasto o router i generar l'unsolclic.
 
+---
+
 ### Procediments
 
 Tot comença per obrir el nostre navegador i visitar la pàgina de **guifi.net**. El primer que hem de fer és l'alta d'usuari per tal de crear el nostre usuari dins la comunitat de guifi.net.

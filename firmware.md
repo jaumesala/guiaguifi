@@ -6,7 +6,13 @@ next: ap.html
 ---
 
 {: .lead }
-Per tal de connectar-nos a la xarxa Guifi.net necessitarem modificar el firmware del nostre router. Es poden fer servir molts models de routers de diferents marques. En aquesta guia veurem com modificar un Buffalo WHR-G54S ja que, si hem seguit la primera part de la guia, és el que hem especificat a tot arreu. En el segon cas veurem com modificar un Linksys WRT-54GL ja que probablement és el més conegut i usat per aquest tipus de coses.
+Per tal de connectar-nos a la xarxa Guifi.net necessitarem modificar el firmware del nostre router. Es poden fer servir molts models de routers de diferents marques.
+
+---
+
+### Procediments
+
+En aquesta guia veurem com modificar un Buffalo WHR-G54S ja que, si hem seguit la primera part de la guia, és el que hem especificat a tot arreu. En el segon cas veurem com modificar un Linksys WRT-54GL ja que probablement és el més conegut i usat per aquest tipus de coses.
 
 ---
 
